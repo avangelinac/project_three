@@ -16,6 +16,8 @@ This project utilizes the blockchain and the idea of an non-fungible token to cr
 
 ## Relevance to Fintech 
 
+### Presentation:
+
 Information contained in Presentation Link. https://docs.google.com/presentation/d/1NpZu-u3ufkkOK39R7niKDC_GpYGgnkCK6kj2V63ehlM/edit?usp=sharing 
 
 ### Ethereum and the Decentralized Apps:
